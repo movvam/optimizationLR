@@ -36,13 +36,15 @@ def gradient_descent_runner(points,starting_b, starting_m, learning_rate, num_it
 
    return [b,m]
 
-def run():
-   input_var = input("Enter a float: ")
+def run(learning_rate):
+   """modified to take learning_rate as input and return new_error 
+         for optimization.py to find optimal learning_rate"""
+   ###input_var = input("Enter a float: ")
    
    
    points = genfromtxt('data.csv',delimiter=',')
    #hyperparameters
-   learning_rate = float(input_var)#0.0001
+   ###learning_rate = float(input_var)#0.0001
    #y = mx+b
    initial_b = 0
    initial_m = 0
@@ -62,8 +64,9 @@ def run():
    f.write("   The difference in error is %f\n" %(initial_error - new_error))
    f.close()
 
+   return new_error
 
 
 
-if __name__ == '__main__':
-   run()
+###if __name__ == '__main__':
+   ###run()
