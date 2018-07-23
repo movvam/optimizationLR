@@ -41,7 +41,7 @@ def run(learning_rate):
          for optimization.py to find optimal learning_rate"""
    ###input_var = input("Enter a float: ")
    
-   
+   print("learning rate is: %f\n" %(learning_rate))   
    points = genfromtxt('data.csv',delimiter=',')
    #hyperparameters
    ###learning_rate = float(input_var)#0.0001
@@ -60,8 +60,9 @@ def run(learning_rate):
    print "After {0} iterations b = {1}, m = {2}, error = {3}\n".format(num_iterations, b, m, new_error)
 
    f=open("errorOutput.txt", "a+")
+   f.write("learning rate is: %f\n" %(learning_rate))
    f.write("The new error is %f" %(new_error) )
-   f.write("   The difference in error is %f\n" %(initial_error - new_error))
+   f.write("   The difference in error is %f\n\n" %(initial_error - new_error))
    f.close()
 
    return new_error

@@ -1,0 +1,138 @@
+learning rate is: 0.000100
+The new error is 112.645300   The difference in error is 5452.462534
+
+learning rate is: 0.000055
+The new error is 112.645618   The difference in error is 5452.462216
+
+learning rate is: 0.000056
+The new error is 112.645548   The difference in error is 5452.462286
+
+learning rate is: 0.000057
+The new error is 112.645480   The difference in error is 5452.462354
+
+learning rate is: 0.000058
+The new error is 112.645416   The difference in error is 5452.462419
+
+learning rate is: 0.000059
+The new error is 112.645354   The difference in error is 5452.462481
+
+learning rate is: 0.000060
+The new error is 112.645295   The difference in error is 5452.462540
+
+learning rate is: 0.000061
+The new error is 112.645239   The difference in error is 5452.462596
+
+learning rate is: 0.000062
+The new error is 112.645186   The difference in error is 5452.462649
+
+learning rate is: 0.000063
+The new error is 112.645135   The difference in error is 5452.462699
+
+learning rate is: 0.000064
+The new error is 112.645088   The difference in error is 5452.462747
+
+learning rate is: 0.000065
+The new error is 112.645043   The difference in error is 5452.462791
+
+learning rate is: 0.000066
+The new error is 112.645002   The difference in error is 5452.462833
+
+learning rate is: 0.000067
+The new error is 112.644963   The difference in error is 5452.462872
+
+learning rate is: 0.000068
+The new error is 112.644927   The difference in error is 5452.462908
+
+learning rate is: 0.000069
+The new error is 112.644894   The difference in error is 5452.462941
+
+learning rate is: 0.000070
+The new error is 112.644863   The difference in error is 5452.462971
+
+learning rate is: 0.000071
+The new error is 112.644836   The difference in error is 5452.462998
+
+learning rate is: 0.000072
+The new error is 112.644812   The difference in error is 5452.463023
+
+learning rate is: 0.000073
+The new error is 112.644790   The difference in error is 5452.463044
+
+learning rate is: 0.000074
+The new error is 112.644772   The difference in error is 5452.463063
+
+learning rate is: 0.000075
+The new error is 112.644756   The difference in error is 5452.463079
+
+learning rate is: 0.000076
+The new error is 112.644743   The difference in error is 5452.463092
+
+learning rate is: 0.000077
+The new error is 112.644733   The difference in error is 5452.463102
+
+learning rate is: 0.000078
+The new error is 112.644726   The difference in error is 5452.463109
+
+learning rate is: 0.000079
+The new error is 112.644721   The difference in error is 5452.463113
+
+learning rate is: 0.000080
+The new error is 112.644720   The difference in error is 5452.463114
+
+learning rate is: 0.000081
+The new error is 112.644722   The difference in error is 5452.463113
+
+learning rate is: 0.000082
+The new error is 112.644726   The difference in error is 5452.463108
+
+learning rate is: 0.000083
+The new error is 112.644733   The difference in error is 5452.463101
+
+learning rate is: 0.000084
+The new error is 112.644744   The difference in error is 5452.463091
+
+learning rate is: 0.000085
+The new error is 112.644757   The difference in error is 5452.463078
+
+learning rate is: 0.000086
+The new error is 112.644773   The difference in error is 5452.463062
+
+learning rate is: 0.000087
+The new error is 112.644792   The difference in error is 5452.463043
+
+learning rate is: 0.000088
+The new error is 112.644813   The difference in error is 5452.463021
+
+learning rate is: 0.000089
+The new error is 112.644838   The difference in error is 5452.462997
+
+learning rate is: 0.000090
+The new error is 112.644866   The difference in error is 5452.462969
+
+learning rate is: 0.000091
+The new error is 112.644896   The difference in error is 5452.462939
+
+learning rate is: 0.000092
+The new error is 112.644929   The difference in error is 5452.462905
+
+learning rate is: 0.000093
+The new error is 112.644966   The difference in error is 5452.462869
+
+learning rate is: 0.000094
+The new error is 112.645005   The difference in error is 5452.462830
+
+learning rate is: 0.000095
+The new error is 112.645047   The difference in error is 5452.462788
+
+learning rate is: 0.000096
+The new error is 112.645092   The difference in error is 5452.462743
+
+learning rate is: 0.000097
+The new error is 112.645139   The difference in error is 5452.462695
+
+learning rate is: 0.000098
+The new error is 112.645190   The difference in error is 5452.462644
+
+learning rate is: 0.000099
+The new error is 112.645244   The difference in error is 5452.462591
+
